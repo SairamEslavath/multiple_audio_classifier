@@ -16,4 +16,4 @@ Step-6 :- Splitting the featured data
 
 Step-7 :- building the model using CNN images
 
-Step-8 :- accurcy and predicting by using test data
+Step-8 :- accuracy and predicting by using test data
